@@ -34,7 +34,7 @@
 ## 3. 외부 전송, 임시 보관 및 제3자 서비스
 
 - 위치 좌표와 도시 검색어는 WeatherAPI, Kakao Local API 및 이를 중계하는 Cloudflare 서비스로 전송될 수 있습니다.
-- 중계 서비스는 성능과 안정성을 위해 날씨 응답을 최대 1시간, 장소 검색 응답을 최대 24시간 임시 캐시할 수 있으며, 요청 메타데이터가 운영 로그에 남을 수 있습니다.
+- 중계 서비스는 성능과 안정성을 위해 날씨 응답을 최대 1시간, 장소 검색 응답을 최대 24시간 임시 캐시할 수 있으며, 요청 메타데이터와 API 응답이 운영 로그에 일시적으로 남을 수 있습니다.
 - Google AdMob은 자체 개인정보 처리방침에 따라 광고 및 진단 정보를 처리합니다.
 - 한국어로 한국 지역을 볼 때 표시될 수 있는 Mallpie 제휴 링크는 실물상품 페이지를 기본 브라우저로 엽니다. 앱은 Mallpie 주소에 위치, 날씨 또는 사용자 식별자를 추가하지 않습니다. 링크를 연 뒤의 처리는 해당 웹사이트의 방침을 따르며, 구매 시 앱 운영자가 수수료를 받을 수 있습니다.
 
@@ -77,7 +77,7 @@ The App does not collect names, email addresses, phone numbers, or user accounts
 ## Sharing, transfer, and temporary retention
 
 - Coordinates and city search terms may be sent to WeatherAPI, Kakao Local API, and a Cloudflare service that proxies those requests.
-- The proxy may temporarily cache weather responses for up to one hour and place-search responses for up to 24 hours. Request metadata may also appear in operational logs.
+- The proxy may temporarily cache weather responses for up to one hour and place-search responses for up to 24 hours. Request metadata and API responses may also appear temporarily in operational logs.
 - Google AdMob processes advertising and diagnostic information under Google’s own privacy terms.
 - For Korean users viewing a Korean location, the App may show a Mallpie affiliate link for physical goods. It opens in the default browser. The App does not add location, weather, or user identifiers to the Mallpie URL. The third-party website’s terms apply after opening it, and the App operator may earn a commission from purchases.
 
