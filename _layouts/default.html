@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#edf4f7">
+<title>{{ page.title }} · 어제오늘날씨</title>
+<meta name="description" content="{{ page.description }}">
+<link rel="icon" type="image/png" href="/assets/icon.png">
+<link rel="stylesheet" href="/assets/site.css">
+</head>
+<body class="page-{{ page.slug }}">
+<a class="skip-link" href="#main">본문으로 바로가기</a>
+<div class="site-shell">
+<header class="site-header"><a class="brand" href="/"><img src="/assets/icon.png" width="36" height="36" alt=""><span>어제오늘날씨</span></a><nav aria-label="주요 메뉴"><a class="nav-home" href="/">앱 소개</a><a class="nav-support" href="/support">고객지원</a><a class="nav-privacy" href="/privacy">개인정보</a></nav></header>
+<main id="main" tabindex="-1">{{ content }}</main>
+<footer class="site-footer"><p>© 2026 GOYO WORKS</p><div><a href="/support">고객지원</a><a href="/privacy">개인정보 처리방침</a></div></footer>
+</div>
+</body>
+</html>

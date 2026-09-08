@@ -1,4 +1,12 @@
-# 개인정보 처리방침
+---
+title: 개인정보 처리방침
+description: 어제오늘날씨의 위치, 광고 및 기기 정보 처리와 사용자의 선택에 관한 안내입니다.
+slug: privacy
+permalink: /privacy
+---
+<header class="page-heading"><p class="eyebrow">개인정보 안내</p><h1>개인정보 처리방침</h1><p class="lead">어떤 정보를, 왜 사용하는지 안내합니다.</p></header>
+<div class="document-meta"><span>시행일 · 2026년 9월 8일 / September 8, 2026</span><a href="#english">English policy ↓</a></div>
+<div class="document" markdown="1">
 
 GOYO WORKS가 운영하는 **어제오늘날씨**(이하 “앱”)는 계정을 만들지 않으며, 날씨 제공에 필요한 자료만 처리합니다. 이 방침은 앱이 사용하는 날씨 서비스, 광고 서비스 및 외부 링크를 포함합니다.
 
@@ -62,7 +70,7 @@ GOYO WORKS가 운영하는 **어제오늘날씨**(이하 “앱”)는 계정을
 
 ---
 
-# Privacy Policy (English)
+<h2 class="english-title" id="english" lang="en">Privacy Policy</h2>
 
 **Yesterday & Today Weather** (the “App”), operated by GOYO WORKS, does not require an account. It processes only the data needed to provide weather, advertising, and related features.
 
@@ -98,6 +106,4 @@ The App is not intended to knowingly collect personal data from children under 1
 
 ---
 
-**시행일 / Effective date**: 2026년 9월 8일 / September 8, 2026
-
-© 2026 GOYO WORKS
+</div>
