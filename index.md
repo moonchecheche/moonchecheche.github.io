@@ -23,6 +23,4 @@
 
 [고객지원](./support) · [개인정보 처리방침](./privacy)
 
-운영: GOYO WORKS
-
 © 2026 GOYO WORKS
