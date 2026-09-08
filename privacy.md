@@ -1,6 +1,6 @@
 # 개인정보 처리방침
 
-**어제오늘날씨**(이하 “앱”)는 계정을 만들지 않으며, 날씨 제공에 필요한 자료만 처리합니다. 이 방침은 앱이 사용하는 날씨 서비스, 광고 서비스 및 외부 링크를 포함합니다.
+GOYO WORKS가 운영하는 **어제오늘날씨**(이하 “앱”)는 계정을 만들지 않으며, 날씨 제공에 필요한 자료만 처리합니다. 이 방침은 앱이 사용하는 날씨 서비스, 광고 서비스 및 외부 링크를 포함합니다.
 
 ## 1. 처리하는 정보
 
@@ -57,14 +57,14 @@
 
 ## 7. 문의
 
-- **개발자**: Aiden Moon
+- **운영자 / 개인정보 처리 문의 담당**: GOYO WORKS
 - **이메일**: [pledge-equal-path@duck.com](mailto:pledge-equal-path@duck.com)
 
 ---
 
 # Privacy Policy (English)
 
-**Yesterday & Today Weather** (the “App”) does not require an account. It processes only the data needed to provide weather, advertising, and related features.
+**Yesterday & Today Weather** (the “App”), operated by GOYO WORKS, does not require an account. It processes only the data needed to provide weather, advertising, and related features.
 
 ## Data we process
 
@@ -93,9 +93,11 @@ The App is not intended to knowingly collect personal data from children under 1
 
 ## Contact
 
-- **Developer**: Aiden Moon
+- **Operator / Privacy contact**: GOYO WORKS
 - **Email**: [pledge-equal-path@duck.com](mailto:pledge-equal-path@duck.com)
 
 ---
 
-**시행일 / Effective date**: 2026년 9월 1일 / September 1, 2026
+**시행일 / Effective date**: 2026년 9월 8일 / September 8, 2026
+
+© 2026 GOYO WORKS

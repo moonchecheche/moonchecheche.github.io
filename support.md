@@ -6,6 +6,8 @@
 
 ## 문의하기
 
+운영 및 고객지원: GOYO WORKS
+
 앱 사용 중 문제가 있거나 궁금한 점이 있으시면 아래 이메일로 연락해주세요.
 
 📧 이메일: [moonchecheche@gmail.com](mailto:moonchecheche@gmail.com)
@@ -27,8 +29,8 @@ A: 한국어로 한국 지역을 볼 때만 나타날 수 있는 실물상품 �
 
 ## 개인정보 처리방침
 
-[[개인정보 처리방침 링크]](./privacy.md)
+[개인정보 처리방침](./privacy)
 
 ---
 
-© 2026 medmemara
+© 2026 GOYO WORKS
