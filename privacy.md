@@ -48,7 +48,7 @@ GOYO WORKS가 운영하는 **어제오늘날씨**(이하 “앱”)는 계정을
 - Google AdMob은 [Google 개인정보처리방침](https://policies.google.com/privacy) 및 [파트너 앱의 정보 사용 안내](https://policies.google.com/technologies/partner-sites)에 따라 광고 및 진단 정보를 처리합니다.
 - 한국어로 한국 지역을 볼 때 표시될 수 있는 Mallpie 제휴 링크는 실물상품 페이지를 기본 브라우저로 엽니다. 앱은 Mallpie 주소에 위치, 날씨 또는 사용자 식별자를 추가하지 않습니다. 링크를 연 뒤의 처리는 해당 웹사이트의 방침을 따르며, 구매 시 앱 운영자가 수수료를 받을 수 있습니다.
 
-개발자는 사용자의 개인정보를 판매하지 않습니다.
+개발자는 금전 대가로 사용자의 개인정보를 판매하지 않습니다. 맞춤 광고를 위한 Google과의 정보 공유는 일부 지역 법령에서 개인정보의 “판매” 또는 “공유”에 해당할 수 있으며, 해당 지역의 동의 및 거부 선택이 적용됩니다.
 
 ## 4. 사용자의 선택과 권리
 
@@ -94,7 +94,7 @@ The App does not collect names, email addresses, phone numbers, or user accounts
 - Google AdMob processes advertising and diagnostic information under [Google’s Privacy Policy](https://policies.google.com/privacy) and its [information about partner apps](https://policies.google.com/technologies/partner-sites).
 - For Korean users viewing a Korean location, the App may show a Mallpie affiliate link for physical goods. It opens in the default browser. The App does not add location, weather, or user identifiers to the Mallpie URL. The third-party website’s terms apply after opening it, and the App operator may earn a commission from purchases.
 
-The developer does not sell personal data.
+The developer does not sell personal data for money. Sharing information with Google for personalized advertising may be considered a “sale” or “sharing” under some regional laws, and the applicable consent and opt-out choices apply.
 
 ## Your choices
 
