@@ -5,7 +5,7 @@ slug: privacy
 permalink: /privacy
 ---
 <header class="page-heading"><p class="eyebrow">개인정보 안내</p><h1>개인정보 처리방침</h1><p class="lead">어떤 정보를, 왜 사용하는지 안내합니다.</p></header>
-<div class="document-meta"><span>시행일 · 2026년 9월 10일 / September 10, 2026</span><a href="#english">English policy ↓</a></div>
+<div class="document-meta"><span>시행일 · 2026년 10월 8일 / October 8, 2026</span><a href="#english">English policy ↓</a></div>
 <div class="document" markdown="1">
 
 GOYO WORKS가 운영하는 **어제오늘날씨**(이하 “앱”)는 계정을 만들지 않으며, 날씨, 광고 및 관련 기능에 필요한 자료를 처리합니다. 이 방침은 앱이 사용하는 날씨 서비스, 광고 서비스 및 외부 링크를 포함합니다.
@@ -43,8 +43,9 @@ GOYO WORKS가 운영하는 **어제오늘날씨**(이하 “앱”)는 계정을
 
 ## 3. 외부 전송, 임시 보관 및 제3자 서비스
 
-- 위치 좌표와 도시 검색어는 WeatherAPI, Kakao Local API 및 이를 중계하는 Cloudflare 서비스로 전송될 수 있습니다.
-- 중계 서비스는 성능과 안정성을 위해 날씨 응답을 최대 1시간, 장소 검색 응답을 최대 24시간 임시 캐시할 수 있으며, 요청 메타데이터와 API 응답이 운영 로그에 일시적으로 남을 수 있습니다.
+- 위치 좌표와 도시 검색어는 WeatherAPI, Kakao Local API, Geoapify 및 이를 중계하는 Cloudflare 서비스로 전송될 수 있습니다. 기존 검색 결과가 없을 때 도시 검색어와 요청 언어는 Google Geocoding으로 전송됩니다. 현재 위치 좌표는 이 구글 검색에 넣지 않습니다.
+- 중계 서비스는 성능과 안정성을 위해 날씨 응답을 최대 1시간 캐시할 수 있습니다. Geoapify 장소 검색 결과는 최대 180일, 정상 빈 검색 결과는 1시간 동안 재사용하고, 만료된 자료는 정기 정리로 삭제합니다. 공급자 오류는 저장하지 않습니다. 구글 검색 응답은 서버의 공용 저장소에 보관하지 않습니다. 구글로 선택한 위치는 날씨 제공을 위해 해당 사용자 기기에만 저장합니다.
+- 중계 서비스의 콘솔 로그와 운영 알림에는 도시 검색어, 정확한 좌표 또는 사용자 인터넷 주소(IP)를 넣지 않습니다. 검색 주소가 포함된 Cloudflare 자동 요청 로그는 사용하지 않습니다. 운영 알림에는 날짜, 전체 호출 횟수와 한도 등의 집계 정보만 넣습니다. 외부 공급자의 자체 처리는 각 공급자의 방침이 적용됩니다.
 - Google AdMob은 [Google 개인정보처리방침](https://policies.google.com/privacy) 및 [파트너 앱의 정보 사용 안내](https://policies.google.com/technologies/partner-sites)에 따라 광고 및 진단 정보를 처리합니다.
 - 한국어로 한국 지역을 볼 때 표시될 수 있는 Mallpie 제휴 링크는 실물상품 페이지를 기본 브라우저로 엽니다. 앱은 Mallpie 주소에 위치, 날씨 또는 사용자 식별자를 추가하지 않습니다. 링크를 연 뒤의 처리는 해당 웹사이트의 방침을 따르며, 구매 시 앱 운영자가 수수료를 받을 수 있습니다.
 
@@ -89,8 +90,9 @@ The App does not collect names, email addresses, phone numbers, or user accounts
 
 ## Sharing, transfer, and temporary retention
 
-- Coordinates and city search terms may be sent to WeatherAPI, Kakao Local API, and a Cloudflare service that proxies those requests.
-- The proxy may temporarily cache weather responses for up to one hour and place-search responses for up to 24 hours. Request metadata and API responses may also appear temporarily in operational logs.
+- Coordinates and city search terms may be sent to WeatherAPI, Kakao Local API, Geoapify, and a Cloudflare proxy. When the existing search returns no candidates, the city query and requested language are sent to Google Geocoding. Current GPS coordinates are not included in this Google search.
+- The proxy may cache weather responses for up to one hour. Geoapify place-search results are reused for up to 180 days and successful empty searches for one hour. Expired entries are deleted through scheduled cleanup; provider errors are not cached. Google search responses are not kept in the shared server cache. A place selected from Google is stored only on the user's device to provide weather for that user.
+- The proxy does not include city queries, precise coordinates, or user IP addresses in console logs or operational alerts. Cloudflare automatic invocation logs containing search URLs are disabled. Operational alerts contain only dates and aggregate usage information, such as total request counts and limits. External providers process requests under their own policies.
 - Google AdMob processes advertising and diagnostic information under [Google’s Privacy Policy](https://policies.google.com/privacy) and its [information about partner apps](https://policies.google.com/technologies/partner-sites).
 - For Korean users viewing a Korean location, the App may show a Mallpie affiliate link for physical goods. It opens in the default browser. The App does not add location, weather, or user identifiers to the Mallpie URL. The third-party website’s terms apply after opening it, and the App operator may earn a commission from purchases.
 
