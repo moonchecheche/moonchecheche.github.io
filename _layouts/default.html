@@ -1,20 +1,46 @@
 <!doctype html>
-<html lang="ko">
+{% assign locale_id = page.locale | default: 'ko' %}
+{% assign app = site.data.app.locales[locale_id] %}
+{% assign canonical = page.url | absolute_url %}
+<html lang="{{ page.lang | default: app.lang }}" dir="{{ app.dir }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#edf4f7">
-<title>{{ page.title }} · 어제오늘날씨</title>
-<meta name="description" content="{{ page.description }}">
+<title>{{ page.title | escape }}</title>
+<meta name="description" content="{{ page.description | escape }}">
+<meta name="robots" content="index,follow,max-image-preview:large">
+{% if page.url == '/' and site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification | escape }}">{% endif %}
+<meta name="application-name" content="{{ app.name | escape }}">
+<meta name="apple-itunes-app" content="app-id=6755811989">
+<link rel="canonical" href="{{ canonical }}">
+{% if page.discovery_home %}
+{% for item in site.data.app.locales %}<link rel="alternate" hreflang="{{ item[1].lang }}" href="{{ item[1].path | absolute_url }}">
+{% endfor %}<link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
+{% endif %}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ app.name | escape }}">
+<meta property="og:title" content="{{ page.title | escape }}">
+<meta property="og:description" content="{{ page.description | escape }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:image" content="{{ '/assets/icon.png' | absolute_url }}">
+<meta property="og:image:alt" content="{{ app.name | escape }}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ page.title | escape }}">
+<meta name="twitter:description" content="{{ page.description | escape }}">
+<meta name="twitter:image" content="{{ '/assets/icon.png' | absolute_url }}">
 <link rel="icon" type="image/png" href="/assets/icon.png">
+<link rel="apple-touch-icon" href="/assets/icon.png">
 <link rel="stylesheet" href="/assets/site.css">
+{% include structured-data.html %}
 </head>
 <body class="page-{{ page.slug }}">
-<a class="skip-link" href="#main">본문으로 바로가기</a>
+<a class="skip-link" href="#main">{{ app.ui.skip }}</a>
 <div class="site-shell">
-<header class="site-header"><a class="brand" href="/"><img src="/assets/icon.png" width="36" height="36" alt=""><span>어제오늘날씨</span></a><nav aria-label="주요 메뉴"><a class="nav-home" href="/">앱 소개</a><a class="nav-support" href="/support">고객지원</a><a class="nav-privacy" href="/privacy">개인정보</a></nav></header>
+<header class="site-header"><a class="brand" href="{{ app.path }}"><img src="/assets/icon.png" width="36" height="36" alt=""><span>{{ app.name }}</span></a><nav aria-label="{{ app.ui.home }}"><a class="nav-home" href="{{ app.path }}">{{ app.ui.home }}</a><a class="nav-support" href="/support">{{ app.ui.support }}</a><a class="nav-privacy" href="/privacy">{{ app.ui.privacy }}</a></nav></header>
 <main id="main" tabindex="-1">{{ content }}</main>
-<footer class="site-footer"><p>© 2026 GOYO WORKS</p><div><a href="/support">고객지원</a><a href="/privacy">개인정보 처리방침</a></div></footer>
+<nav class="language-switch" aria-label="{{ app.ui.language }}">{% for item in site.data.app.locales %}<a href="{{ item[1].path }}" lang="{{ item[1].lang }}" hreflang="{{ item[1].lang }}"{% if page.discovery_home and locale_id == item[0] %} aria-current="page"{% endif %}><bdi>{{ item[1].label }}</bdi></a>{% endfor %}</nav>
+<footer class="site-footer"><p>© 2026 GOYO WORKS</p><div><a href="/support">{{ app.ui.support }}</a><a href="/privacy">{{ app.ui.privacy }}</a></div></footer>
 </div>
 </body>
 </html>

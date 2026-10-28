@@ -1,0 +1,1046 @@
+{
+  "siteUrl": "https://moonchecheche.github.io",
+  "storeUrls": {
+    "ios": "https://apps.apple.com/app/id6755811989",
+    "android": "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+  },
+  "locales": {
+    "ko": {
+      "label": "한국어",
+      "lang": "ko",
+      "dir": "ltr",
+      "path": "/",
+      "name": "어제오늘날씨",
+      "title": "어제오늘날씨 · 기온 비교·시간별 예보·강수확률",
+      "description": "어제오늘날씨. 어제·오늘·내일 같은 시각의 기온을 비교하고, 시간별 예보와 강수확률을 확인하세요.",
+      "subtitle": "기온 비교·시간별 예보·강수확률",
+      "summary": "어제·오늘·내일 같은 시각의 기온을 비교하고, 시간별 예보와 강수확률을 확인하세요.",
+      "body": "어제오늘날씨는 어제의 날씨 기록, 지금 날씨, 내일 예보를 같은 현지 시각으로 비교하는 날씨 앱입니다. 하루 사이의 기온 차이와 시간별 예보를 보고 옷차림과 외출을 준비하세요.\n\n한눈에 확인하세요.\n- 어제·지금·내일의 기온과 기온 변화\n- 지금 포함 최대 24칸의 시간별 날씨와 강수확률\n- 습도, 풍속, 미세먼지 등 대기질과 자외선\n- 현재 위치의 동네날씨와 전 세계 도시 날씨\n- 큰 글씨, 17개 언어, 최근 자료 오프라인 보기\n\n도시·공원·바닷가를 담은 종이 그림에 비·눈·바람이 잔잔하게 움직입니다. 큰 글씨와 정돈된 화면으로 오늘의 날씨를 편하게 살펴보세요.\n\n화면과 글씨 크기에 맞춘 배치로 날씨 정보와 설정을 편하게 이용하세요.\n\n설정에서 그림을 골라 보세요. 종이 풍경과 “동네 산책, 두부”, “하늘 우체국의 우주” 등 3개 팩이 기본으로 들어 있습니다. “무대 밖, 소라”와 “무대 밖, 채운”은 대표 그림 4장을 미리 보고, 원하는 팩의 날씨 그림 42장을 다운로드해 사용할 수 있습니다.\n\n다운로드 진행률을 확인하고 취소하거나 다시 시도할 수 있습니다. 추가 팩은 기기에서 삭제할 수 있습니다. 받은 그림과 선택은 앱을 다시 열어도 유지되며, 그림 팩은 오프라인에서도 사용할 수 있습니다.",
+      "ui": {
+        "home": "앱 소개",
+        "features": "주요 기능",
+        "support": "고객지원",
+        "privacy": "개인정보",
+        "skip": "본문으로 바로가기",
+        "language": "언어"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "어제오늘날씨",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/",
+        "description": "어제오늘날씨. 어제·오늘·내일 같은 시각의 기온을 비교하고, 시간별 예보와 강수확률을 확인하세요.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "en": {
+      "label": "English",
+      "lang": "en",
+      "dir": "ltr",
+      "path": "/en/",
+      "name": "Yesterday & Today Weather",
+      "title": "Yesterday & Today Weather · Hourly forecast & rain chances",
+      "description": "Yesterday & Today Weather. Compare yesterday, now and tomorrow at one local hour. Hourly forecast and rain.",
+      "subtitle": "Hourly forecast & rain chances",
+      "summary": "Compare yesterday, now and tomorrow at one local hour. Hourly forecast and rain.",
+      "body": "Yesterday & Today Weather compares yesterday’s weather records, current conditions and tomorrow’s forecast at the same local time. Check temperature changes, hourly forecasts and rain chances before you head out.\n\nAt a glance:\n- Yesterday, now and tomorrow\n- Up to 24 hourly weather slots starting now, with rain chances\n- Humidity, wind, air quality and UV\n- Current location and worldwide city search\n- Large text, 17 languages and recent data offline\n\nPaper-collage cities, parks and coastlines come to life with gentle rain, snow and wind. Large type and a calmer layout make the weather easier to read.\n\nThe layout adapts to your screen and text size, so weather details and controls stay easy to read and use.\n\nChoose your picture style in Settings. Three packs are included: paper landscapes, “A Neighborhood Walk with Dubu” and “Wooju of the Sky Post Office”. Preview 4 sample pictures from “Offstage, Sora” or “Offstage, Chaeun”, then download the pack you want with all 42 weather pictures.\n\nFollow download progress, cancel or retry, and remove extra packs from your device. Downloaded pictures and your choice stay saved after restarting the app. Picture packs also work offline.",
+      "ui": {
+        "home": "The app",
+        "features": "About the app",
+        "support": "Support",
+        "privacy": "Privacy",
+        "skip": "Skip to content",
+        "language": "Language"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "Yesterday & Today Weather",
+        "alternateName": "어제오늘날씨",
+        "url": "https://moonchecheche.github.io/en/",
+        "description": "Yesterday & Today Weather. Compare yesterday, now and tomorrow at one local hour. Hourly forecast and rain.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "ja": {
+      "label": "日本語",
+      "lang": "ja",
+      "dir": "ltr",
+      "path": "/ja/",
+      "name": "きのうと今日の天気",
+      "title": "きのうと今日の天気 · 時間別予報・気温比較・降水確率",
+      "description": "きのうと今日の天気. 昨日・今・明日の同じ時刻の気温を比較。時間別の天気と降水確率で、服装や傘の準備に。",
+      "subtitle": "時間別予報・気温比較・降水確率",
+      "summary": "昨日・今・明日の同じ時刻の気温を比較。時間別の天気と降水確率で、服装や傘の準備に。",
+      "body": "昨日より暑い？明日はどうなる？\n\n今日の数値だけでは、体感をつかみにくいことがあります。昨日の実測、現在、明日の同じ現地時刻を並べて、服装や外出の準備に役立てられます。\n\nひと目で確認:\n- 昨日・現在・明日の気温変化\n- 現在を含む最大24枠の時間別天気と降水確率\n- 湿度、風、空気質、紫外線\n- 現在地と世界の都市\n- 大きな文字、17言語、最近のデータのオフライン表示\n\n街、公園、海辺の紙のコラージュに、雨・雪・風が穏やかに動きます。大きな文字とすっきりした画面で、今日の天気を見やすく。\n\n画面や文字の大きさに合わせたレイアウトで、天気情報や設定を見やすく、使いやすくしました。\n\n設定で絵を選べます。紙の風景、“ドゥブと町をお散歩”、“空の郵便局のウジュ”の3つのパックが最初から入っています。“舞台の外、ソラ”と“舞台の外、チェウン”は4枚の絵をプレビューし、気に入ったパックの天気の絵42枚をダウンロードして使えます。\n\nダウンロードの進み具合を確認でき、キャンセルや再試行もできます。追加パックは端末から削除できます。保存した絵と選択はアプリを再起動しても残り、絵はオフラインでも使えます。",
+      "ui": {
+        "home": "アプリ紹介",
+        "features": "主な機能",
+        "support": "サポート",
+        "privacy": "プライバシー",
+        "skip": "本文へ移動",
+        "language": "言語"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "きのうと今日の天気",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/ja/",
+        "description": "きのうと今日の天気. 昨日・今・明日の同じ時刻の気温を比較。時間別の天気と降水確率で、服装や傘の準備に。",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "zh-Hans": {
+      "label": "简体中文",
+      "lang": "zh-Hans",
+      "dir": "ltr",
+      "path": "/zh-Hans/",
+      "name": "昨天和今天的天气",
+      "title": "昨天和今天的天气 · 同一时刻比气温，查看逐小时降雨预报",
+      "description": "昨天和今天的天气. 比较昨天、现在和明天同一当地时刻的气温，查看逐小时天气与降雨概率，为穿衣和出门做准备。",
+      "subtitle": "同一时刻比气温，查看逐小时降雨预报",
+      "summary": "比较昨天、现在和明天同一当地时刻的气温，查看逐小时天气与降雨概率，为穿衣和出门做准备。",
+      "body": "比昨天更热？明天呢？\n\n只看今天的数字，有时很难判断实际感受。把昨天的实况、当前天气和明天同一当地时间放在一起比较，让穿衣和出行安排更轻松。\n\n一眼查看：\n- 昨天、现在和明天的气温变化\n- 从当前时刻开始，最多24个逐小时时段的天气和降雨概率\n- 湿度、风、空气质量和紫外线\n- 当前位置和全球城市\n- 大字体、17种语言和离线查看近期数据\n\n城市、公园和海岸的纸艺拼贴，配上轻柔的雨、雪和风动效。大字体与清晰布局，让天气更容易查看。\n\n布局会适应屏幕和文字大小，让天气信息更易阅读，设置更易使用。\n\n在设置中选择喜欢的画风。应用自带3个图包：纸质风景、“豆腐的街区散步”和“天空邮局的宇宙”。“舞台之外，索拉”与“舞台之外，Chaeun”可先预览4张代表图片，再下载喜欢的图包，获得全部42张天气图片。\n\n可以查看下载进度、取消或重试，并从设备删除额外图包。已下载的图片和选择在重启应用后仍会保留，图包也可离线使用。",
+      "ui": {
+        "home": "应用介绍",
+        "features": "主要功能",
+        "support": "支持",
+        "privacy": "隐私",
+        "skip": "跳至正文",
+        "language": "语言"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "昨天和今天的天气",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/zh-Hans/",
+        "description": "昨天和今天的天气. 比较昨天、现在和明天同一当地时刻的气温，查看逐小时天气与降雨概率，为穿衣和出门做准备。",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "zh-Hant": {
+      "label": "繁體中文",
+      "lang": "zh-Hant",
+      "dir": "ltr",
+      "path": "/zh-Hant/",
+      "name": "昨天和今天的天氣",
+      "title": "昨天和今天的天氣 · 同一時刻比氣溫，查看逐小時降雨預報",
+      "description": "昨天和今天的天氣. 比較昨天、現在和明天同一當地時刻的氣溫，查看逐小時天氣與降雨機率，為穿衣和出門做準備。",
+      "subtitle": "同一時刻比氣溫，查看逐小時降雨預報",
+      "summary": "比較昨天、現在和明天同一當地時刻的氣溫，查看逐小時天氣與降雨機率，為穿衣和出門做準備。",
+      "body": "比昨天更熱？明天呢？\n\n只看今天的數字，有時很難判斷實際感受。把昨天的實況、目前天氣和明天同一當地時間放在一起比較，讓穿衣和出門安排更輕鬆。\n\n一眼查看：\n- 昨天、現在和明天的氣溫變化\n- 從目前時刻開始，最多24個逐小時時段的天氣和降雨機率\n- 濕度、風、空氣品質和紫外線\n- 目前位置和全球城市\n- 大字體、17種語言和離線查看近期資料\n\n城市、公園與海岸的紙藝拼貼，搭配輕柔的雨、雪和風動效。大字體與清晰版面，讓天氣更容易查看。\n\n版面會配合螢幕和文字大小，讓天氣資訊更容易閱讀，設定更容易操作。\n\n在設定中選擇喜歡的畫風。App內含3個圖包：紙質風景、「豆腐的街區散步」和「天空郵局的宇宙」。「舞臺之外，索拉」與「舞臺之外，Chaeun」可先預覽4張代表圖片，再下載喜歡的圖包，取得全部42張天氣圖片。\n\n可以查看下載進度、取消或重試，並從裝置刪除額外圖包。已下載的圖片和選擇會在重新啟動App後保留，圖包也可離線使用。",
+      "ui": {
+        "home": "應用介紹",
+        "features": "主要功能",
+        "support": "支援",
+        "privacy": "隱私",
+        "skip": "跳至正文",
+        "language": "語言"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "昨天和今天的天氣",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/zh-Hant/",
+        "description": "昨天和今天的天氣. 比較昨天、現在和明天同一當地時刻的氣溫，查看逐小時天氣與降雨機率，為穿衣和出門做準備。",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "es": {
+      "label": "Español",
+      "lang": "es",
+      "dir": "ltr",
+      "path": "/es/",
+      "name": "Tiempo: ayer y hoy",
+      "title": "Tiempo: ayer y hoy · Previsión por horas y lluvia",
+      "description": "Tiempo: ayer y hoy. Compara ayer, hoy y mañana a la misma hora. Previsión por horas y lluvia.",
+      "subtitle": "Previsión por horas y lluvia",
+      "summary": "Compara ayer, hoy y mañana a la misma hora. Previsión por horas y lluvia.",
+      "body": "¿Hace más calor que ayer? ¿Y mañana?\n\nUn dato aislado de hoy no siempre dice cómo se sentirá. Compara el tiempo real de ayer, las condiciones actuales y mañana a la misma hora local para elegir qué ponerte y planear tu salida.\n\nDe un vistazo:\n- Ayer, ahora y mañana\n- Tiempo y probabilidad de lluvia en hasta 24 franjas horarias, desde ahora\n- Humedad, viento, calidad del aire y UV\n- Ubicación actual y ciudades de todo el mundo\n- Texto grande, 17 idiomas y datos recientes sin conexión\n\nCiudades, parques y costas en collage de papel cobran vida con lluvia, nieve y viento suaves. Letras grandes y un diseño más claro facilitan consultar el tiempo.\n\nEl diseño se adapta al tamaño de la pantalla y del texto para facilitar la lectura del tiempo y el uso de los controles.\n\nElige el estilo de las imágenes en Ajustes. La app incluye 3 paquetes: paisajes de papel, «Paseos con Dubu» y «Wooju de la oficina de correos del cielo». Mira 4 imágenes de muestra de «Fuera del escenario, Sora» o «Fuera del escenario, Chaeun» y descarga el paquete que quieras con sus 42 imágenes del tiempo.\n\nConsulta el progreso de descarga, cancela o vuelve a intentarlo y elimina paquetes adicionales del dispositivo. Las imágenes descargadas y tu elección se conservan al reiniciar la app. Los paquetes de imágenes también funcionan sin conexión.",
+      "ui": {
+        "home": "La aplicación",
+        "features": "Funciones",
+        "support": "Ayuda",
+        "privacy": "Privacidad",
+        "skip": "Ir al contenido",
+        "language": "Idioma"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "Tiempo: ayer y hoy",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/es/",
+        "description": "Tiempo: ayer y hoy. Compara ayer, hoy y mañana a la misma hora. Previsión por horas y lluvia.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "fr": {
+      "label": "Français",
+      "lang": "fr",
+      "dir": "ltr",
+      "path": "/fr/",
+      "name": "Météo hier et aujourd’hui",
+      "title": "Météo hier et aujourd’hui · Prévisions horaires et pluie",
+      "description": "Météo hier et aujourd’hui. Comparez hier, maintenant et demain à la même heure. Prévisions et pluie.",
+      "subtitle": "Prévisions horaires et pluie",
+      "summary": "Comparez hier, maintenant et demain à la même heure. Prévisions et pluie.",
+      "body": "Fait-il plus chaud qu’hier ? Et demain ?\n\nUne valeur pour aujourd’hui ne suffit pas toujours à se représenter la sensation. Comparez les observations d’hier, la météo actuelle et demain à la même heure locale pour choisir votre tenue et organiser vos sorties.\n\nEn un coup d’œil :\n- Hier, maintenant et demain\n- Météo et risque de pluie sur un maximum de 24 créneaux horaires, dès maintenant\n- Humidité, vent, qualité de l’air et UV\n- Position actuelle et villes du monde entier\n- Texte agrandi, 17 langues et données récentes hors connexion\n\nDes villes, parcs et côtes en collage de papier s’animent doucement avec la pluie, la neige et le vent. De grands caractères et une mise en page épurée facilitent la lecture.\n\nLa mise en page s’adapte à la taille de l’écran et du texte pour faciliter la lecture de la météo et l’utilisation des commandes.\n\nChoisissez votre style d’images dans les réglages. L’app inclut 3 packs : des paysages en papier, « Balades avec Dubu » et « Wooju du bureau de poste céleste ». Découvrez 4 images de « Hors scène, Sora » ou « Hors scène, Chaeun », puis téléchargez les 42 images météo du pack qui vous plaît.\n\nSuivez la progression du téléchargement, annulez ou réessayez, et supprimez les packs supplémentaires de l’appareil. Les images téléchargées et votre choix restent enregistrés après le redémarrage de l’app. Les packs d’images sont aussi utilisables hors ligne.",
+      "ui": {
+        "home": "L’application",
+        "features": "Fonctionnalités",
+        "support": "Assistance",
+        "privacy": "Confidentialité",
+        "skip": "Aller au contenu",
+        "language": "Langue"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "Météo hier et aujourd’hui",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/fr/",
+        "description": "Météo hier et aujourd’hui. Comparez hier, maintenant et demain à la même heure. Prévisions et pluie.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "de": {
+      "label": "Deutsch",
+      "lang": "de",
+      "dir": "ltr",
+      "path": "/de/",
+      "name": "Wetter gestern & heute",
+      "title": "Wetter gestern & heute · Stündliche Vorhersage & Regen",
+      "description": "Wetter gestern & heute. Vergleiche gestern, jetzt und morgen zur selben Uhrzeit. Vorhersage und Regen.",
+      "subtitle": "Stündliche Vorhersage & Regen",
+      "summary": "Vergleiche gestern, jetzt und morgen zur selben Uhrzeit. Vorhersage und Regen.",
+      "body": "Ist es wärmer als gestern? Und morgen?\n\nEin einzelner Wert für heute ist oft schwer einzuordnen. Vergleiche die Messwerte von gestern, das aktuelle Wetter und morgen zur gleichen Ortszeit. So lassen sich Kleidung und Tagesplanung leichter abstimmen.\n\nAuf einen Blick:\n- Gestern, jetzt und morgen\n- Wetter und Regenwahrscheinlichkeit in bis zu 24 Stundenfeldern ab jetzt\n- Luftfeuchtigkeit, Wind, Luftqualität und UV\n- Aktueller Standort und Städte weltweit\n- 17 Sprachen, große Schrift und zuletzt geladene Daten auch offline\n\nStädte, Parks und Küsten als Papiercollagen werden durch sanften Regen, Schnee und Wind lebendig. Große Schrift und ein ruhigeres Layout machen das Wetter leichter lesbar.\n\nDie Darstellung passt sich an Bildschirm- und Schriftgröße an, damit Wetterdaten und Bedienelemente gut lesbar und einfach zu nutzen bleiben.\n\nWählen Sie den Bildstil in den Einstellungen. Enthalten sind 3 Pakete: Papierlandschaften, „Spaziergänge mit Dubu“ und „Wooju von der Himmelspost“. Sehen Sie 4 Bilder von „Abseits der Bühne, Sora“ oder „Abseits der Bühne, Chaeun“ an und laden Sie das gewünschte Paket mit allen 42 Wetterbildern.\n\nPrüfen Sie den Downloadfortschritt, brechen Sie ab oder versuchen Sie es erneut. Zusätzliche Pakete lassen sich vom Gerät entfernen. Geladene Bilder und Ihre Auswahl bleiben nach dem App-Neustart gespeichert. Die Bildpakete sind auch offline nutzbar.",
+      "ui": {
+        "home": "Die App",
+        "features": "Funktionen",
+        "support": "Hilfe",
+        "privacy": "Datenschutz",
+        "skip": "Zum Inhalt",
+        "language": "Sprache"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "Wetter gestern & heute",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/de/",
+        "description": "Wetter gestern & heute. Vergleiche gestern, jetzt und morgen zur selben Uhrzeit. Vorhersage und Regen.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "pt-BR": {
+      "label": "Português (Brasil)",
+      "lang": "pt-BR",
+      "dir": "ltr",
+      "path": "/pt-BR/",
+      "name": "Tempo de ontem e hoje",
+      "title": "Tempo de ontem e hoje · Previsão por hora e chuva",
+      "description": "Tempo de ontem e hoje. Compare ontem, agora e amanhã na mesma hora. Previsão por hora e chuva.",
+      "subtitle": "Previsão por hora e chuva",
+      "summary": "Compare ontem, agora e amanhã na mesma hora. Previsão por hora e chuva.",
+      "body": "Está mais quente que ontem? E amanhã?\n\nUm número isolado de hoje nem sempre mostra como o tempo vai parecer. Compare o tempo real de ontem, as condições atuais e amanhã no mesmo horário local para escolher a roupa e planejar o dia.\n\nVeja de relance:\n- Ontem, agora e amanhã\n- Clima e chance de chuva em até 24 períodos por hora, a partir de agora\n- Umidade, vento, qualidade do ar e UV\n- Localização atual e cidades do mundo todo\n- Texto ampliado, 17 idiomas e dados recentes off-line\n\nCidades, parques e litorais em colagem de papel ganham vida com chuva, neve e vento suaves. Letras grandes e um visual mais limpo facilitam a leitura do tempo.\n\nO layout se adapta ao tamanho da tela e do texto para facilitar a leitura do tempo e o uso dos controles.\n\nEscolha o estilo das imagens nos Ajustes. O app inclui 3 pacotes: paisagens de papel, “Passeios com Dubu” e “Wooju dos Correios do Céu”. Veja 4 amostras de “Fora do palco, Sora” ou “Fora do palco, Chaeun” e baixe o pacote que quiser com todas as 42 imagens do tempo.\n\nAcompanhe o progresso do download, cancele ou tente novamente e remova pacotes extras do dispositivo. As imagens baixadas e sua escolha ficam salvas após reiniciar o app. Os pacotes de imagens também funcionam offline.",
+      "ui": {
+        "home": "O aplicativo",
+        "features": "Recursos",
+        "support": "Suporte",
+        "privacy": "Privacidade",
+        "skip": "Ir para o conteúdo",
+        "language": "Idioma"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "Tempo de ontem e hoje",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/pt-BR/",
+        "description": "Tempo de ontem e hoje. Compare ontem, agora e amanhã na mesma hora. Previsão por hora e chuva.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "it": {
+      "label": "Italiano",
+      "lang": "it",
+      "dir": "ltr",
+      "path": "/it/",
+      "name": "Meteo ieri e oggi",
+      "title": "Meteo ieri e oggi · Previsioni orarie e pioggia",
+      "description": "Meteo ieri e oggi. Confronta ieri, ora e domani alla stessa ora. Previsioni orarie e pioggia.",
+      "subtitle": "Previsioni orarie e pioggia",
+      "summary": "Confronta ieri, ora e domani alla stessa ora. Previsioni orarie e pioggia.",
+      "body": "Fa più caldo di ieri? E domani?\n\nUn solo dato di oggi non sempre aiuta a capire che tempo farà. Confronta le osservazioni di ieri, il meteo attuale e domani alla stessa ora locale per scegliere cosa indossare e organizzare la giornata.\n\nA colpo d’occhio:\n- Ieri, ora e domani\n- Meteo e probabilità di pioggia in un massimo di 24 fasce orarie, da ora\n- Umidità, vento, qualità dell’aria e UV\n- Posizione attuale e città di tutto il mondo\n- Testo grande, 17 lingue e dati recenti offline\n\nCittà, parchi e coste in collage di carta prendono vita con pioggia, neve e vento delicati. Caratteri grandi e un layout più pulito rendono il meteo più leggibile.\n\nIl layout si adatta alle dimensioni dello schermo e del testo per rendere le informazioni meteo e i controlli facili da leggere e usare.\n\nScegli lo stile delle immagini nelle impostazioni. L’app include 3 pacchetti: paesaggi di carta, “Passeggiate con Dubu” e “Wooju dell’ufficio postale del cielo”. Guarda 4 immagini di esempio di “Fuori scena, Sora” o “Fuori scena, Chaeun”, poi scarica il pacchetto che preferisci con tutte le 42 immagini meteo.\n\nControlla i progressi del download, annulla o riprova e rimuovi i pacchetti aggiuntivi dal dispositivo. Le immagini scaricate e la scelta restano salvate dopo il riavvio dell’app. I pacchetti di immagini funzionano anche offline.",
+      "ui": {
+        "home": "L’app",
+        "features": "Funzioni",
+        "support": "Assistenza",
+        "privacy": "Privacy",
+        "skip": "Vai al contenuto",
+        "language": "Lingua"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "Meteo ieri e oggi",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/it/",
+        "description": "Meteo ieri e oggi. Confronta ieri, ora e domani alla stessa ora. Previsioni orarie e pioggia.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "hi": {
+      "label": "हिन्दी",
+      "lang": "hi",
+      "dir": "ltr",
+      "path": "/hi/",
+      "name": "बीते कल और आज का मौसम",
+      "title": "बीते कल और आज का मौसम · हर घंटे का पूर्वानुमान",
+      "description": "बीते कल और आज का मौसम. कल, अभी और आने वाले कल का तापमान एक ही समय पर देखें। घंटेवार मौसम और बारिश।",
+      "subtitle": "हर घंटे का पूर्वानुमान",
+      "summary": "कल, अभी और आने वाले कल का तापमान एक ही समय पर देखें। घंटेवार मौसम और बारिश।",
+      "body": "क्या अभी का मौसम बीते दिन के इसी समय से ज़्यादा गर्म है या ठंडा?\n\nआज का मौसम अकेले देखना हमेशा पर्याप्त नहीं होता। बीते दिन के अवलोकन, अभी के मौसम और अगले दिन के इसी स्थानीय समय के पूर्वानुमान की तुलना एक स्क्रीन पर करें। इससे कपड़े चुनना और दिन की योजना बनाना आसान होता है।\n\nएक नज़र में:\n- बीता दिन, अभी और अगला दिन\n- अभी से शुरू होने वाले अधिकतम 24 घंटेवार खंडों में मौसम और बारिश की संभावना\n- नमी, हवा, वायु गुणवत्ता और UV\n- वर्तमान स्थान और दुनिया भर के शहर\n- बड़ा टेक्स्ट, 17 भाषाएँ और हाल का डेटा ऑफ़लाइन\n\nकागज़ी कोलाज के शहर, पार्क और समुद्र तट हल्की बारिश, बर्फ़ और हवा के प्रभावों से जीवंत बनते हैं। बड़े अक्षर और साफ़ लेआउट मौसम पढ़ना आसान बनाते हैं।\n\nस्क्रीन और अक्षरों के आकार के अनुसार लेआउट बदलता है, ताकि मौसम की जानकारी पढ़ना और सेटिंग का उपयोग करना आसान रहे।\n\nसेटिंग में चित्रों की शैली चुनें। ऐप में 3 पैक शामिल हैं: कागज़ के दृश्य, “दुबू के साथ सैर” और “आकाश डाकघर की वूजू”। “मंच के बाहर, सोरा” या “मंच के बाहर, चाएउन” के 4 नमूने देखें और पसंद के पैक के मौसम वाले सभी 42 चित्र डाउनलोड करें।\n\nडाउनलोड की प्रगति देखें, रद्द करें या फिर कोशिश करें। अतिरिक्त पैक डिवाइस से हटा सकते हैं। डाउनलोड किए चित्र और आपकी पसंद ऐप दोबारा खोलने पर भी रहते हैं। चित्रों के पैक ऑफ़लाइन भी चलते हैं।",
+      "ui": {
+        "home": "ऐप परिचय",
+        "features": "मुख्य सुविधाएँ",
+        "support": "सहायता",
+        "privacy": "गोपनीयता",
+        "skip": "मुख्य सामग्री पर जाएँ",
+        "language": "भाषा"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "बीते कल और आज का मौसम",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/hi/",
+        "description": "बीते कल और आज का मौसम. कल, अभी और आने वाले कल का तापमान एक ही समय पर देखें। घंटेवार मौसम और बारिश।",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "ar": {
+      "label": "العربية",
+      "lang": "ar",
+      "dir": "rtl",
+      "path": "/ar/",
+      "name": "طقس الأمس واليوم",
+      "title": "طقس الأمس واليوم · توقعات كل ساعة وفرص المطر",
+      "description": "طقس الأمس واليوم. قارن حرارة الأمس والآن والغد في الساعة نفسها، مع توقعات كل ساعة وفرص المطر.",
+      "subtitle": "توقعات كل ساعة وفرص المطر",
+      "summary": "قارن حرارة الأمس والآن والغد في الساعة نفسها، مع توقعات كل ساعة وفرص المطر.",
+      "body": "هل الجو أدفأ من أمس؟ وماذا عن الغد؟\n\nلا تعطي أرقام اليوم وحدها دائمًا صورة واضحة. قارن طقس الأمس الفعلي والطقس الآن والغد في التوقيت المحلي نفسه لتسهيل اختيار الملابس والتخطيط ليومك.\n\nفي نظرة واحدة:\n- الأمس والآن والغد\n- الطقس واحتمال المطر في ما يصل إلى 24 فترة ساعية بدءًا من الآن\n- الرطوبة والرياح وجودة الهواء والأشعة فوق البنفسجية\n- الموقع الحالي ومدن حول العالم\n- نص كبير و17 لغة وأحدث البيانات بلا اتصال\n\nتنبض مشاهد المدن والحدائق والسواحل المصنوعة من قصاصات الورق بالحياة مع تأثيرات هادئة للمطر والثلج والرياح. خط كبير وتصميم أوضح لتسهيل قراءة الطقس.\n\nيتكيف التخطيط مع حجم الشاشة والنص لتسهيل قراءة معلومات الطقس واستخدام عناصر التحكم.\n\nاختر أسلوب الصور في الإعدادات. يضم التطبيق 3 حزم: مناظر ورقية و«نزهة في الحي مع دوبو» و«ووجو من مكتب بريد السماء». عاين 4 صور من «خارج المسرح، سورا» أو «خارج المسرح، تشايون»، ثم نزّل الحزمة التي تعجبك مع صور الطقس الـ42 كاملة.\n\nتابع تقدم التنزيل، أو ألغِه أو أعد المحاولة، واحذف الحزم الإضافية من الجهاز. تبقى الصور المنزّلة واختيارك محفوظين بعد إعادة فتح التطبيق. تعمل حزم الصور أيضًا دون اتصال.",
+      "ui": {
+        "home": "عن التطبيق",
+        "features": "الميزات",
+        "support": "الدعم",
+        "privacy": "الخصوصية",
+        "skip": "انتقل إلى المحتوى",
+        "language": "اللغة"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "طقس الأمس واليوم",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/ar/",
+        "description": "طقس الأمس واليوم. قارن حرارة الأمس والآن والغد في الساعة نفسها، مع توقعات كل ساعة وفرص المطر.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "id": {
+      "label": "Bahasa Indonesia",
+      "lang": "id",
+      "dir": "ltr",
+      "path": "/id/",
+      "name": "Cuaca Kemarin dan Hari Ini",
+      "title": "Cuaca Kemarin dan Hari Ini · Prakiraan per jam dan hujan",
+      "description": "Cuaca Kemarin dan Hari Ini. Bandingkan suhu kemarin, kini, dan besok pada jam yang sama. Prakiraan per jam.",
+      "subtitle": "Prakiraan per jam dan hujan",
+      "summary": "Bandingkan suhu kemarin, kini, dan besok pada jam yang sama. Prakiraan per jam.",
+      "body": "Lebih panas dari kemarin? Bagaimana besok?\n\nSatu angka untuk hari ini belum tentu mudah dipahami. Bandingkan cuaca nyata kemarin, kondisi saat ini, dan besok pada waktu lokal yang sama agar memilih pakaian dan merencanakan hari jadi lebih mudah.\n\nSekilas terlihat:\n- Kemarin, sekarang, dan besok\n- Cuaca dan peluang hujan dalam hingga 24 slot per jam, mulai sekarang\n- Kelembapan, angin, kualitas udara, dan UV\n- Lokasi saat ini dan kota di seluruh dunia\n- 17 bahasa, teks besar, dan data terakhir tetap tersedia saat offline\n\nKota, taman, dan pesisir dalam kolase kertas terasa hidup dengan efek hujan, salju, dan angin yang lembut. Huruf besar dan tata letak yang rapi memudahkan membaca cuaca.\n\nTata letak menyesuaikan ukuran layar dan teks agar informasi cuaca mudah dibaca dan kontrol mudah digunakan.\n\nPilih gaya gambar di Pengaturan. Aplikasi menyertakan 3 paket: pemandangan kertas, “Jalan-jalan bersama Dubu” dan “Wooju dari Kantor Pos Langit”. Lihat 4 contoh “Di Luar Panggung, Sora” atau “Di Luar Panggung, Chaeun”, lalu unduh paket pilihan beserta seluruh 42 gambar cuacanya.\n\nPantau progres unduhan, batalkan atau coba lagi, dan hapus paket tambahan dari perangkat. Gambar yang diunduh dan pilihan tetap tersimpan setelah aplikasi dibuka kembali. Paket gambar juga bisa digunakan offline.",
+      "ui": {
+        "home": "Tentang aplikasi",
+        "features": "Fitur",
+        "support": "Bantuan",
+        "privacy": "Privasi",
+        "skip": "Lewati ke konten",
+        "language": "Bahasa"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "Cuaca Kemarin dan Hari Ini",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/id/",
+        "description": "Cuaca Kemarin dan Hari Ini. Bandingkan suhu kemarin, kini, dan besok pada jam yang sama. Prakiraan per jam.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "vi": {
+      "label": "Tiếng Việt",
+      "lang": "vi",
+      "dir": "ltr",
+      "path": "/vi/",
+      "name": "Thời tiết hôm qua và hôm nay",
+      "title": "Thời tiết hôm qua và hôm nay · Dự báo theo giờ và mưa",
+      "description": "Thời tiết hôm qua và hôm nay. So sánh nhiệt độ hôm qua, hiện tại và ngày mai cùng giờ. Dự báo theo giờ và mưa.",
+      "subtitle": "Dự báo theo giờ và mưa",
+      "summary": "So sánh nhiệt độ hôm qua, hiện tại và ngày mai cùng giờ. Dự báo theo giờ và mưa.",
+      "body": "Nóng hơn hôm qua? Còn ngày mai?\n\nMột con số của hôm nay chưa chắc giúp bạn hình dung rõ. So sánh thời tiết thực tế hôm qua, hiện tại và ngày mai vào cùng giờ địa phương để chọn trang phục và lên kế hoạch dễ hơn.\n\nXem nhanh:\n- Hôm qua, hiện tại và ngày mai\n- Thời tiết và khả năng mưa tại tối đa 24 mốc theo giờ, bắt đầu từ hiện tại\n- Độ ẩm, gió, chất lượng không khí và UV\n- Vị trí hiện tại và tìm kiếm thành phố trên toàn thế giới\n- 17 ngôn ngữ, chữ lớn và xem lại dữ liệu gần đây khi không có mạng\n\nThành phố, công viên và bờ biển bằng tranh cắt dán giấy trở nên sinh động với mưa, tuyết và gió nhẹ nhàng. Chữ lớn và bố cục gọn gàng giúp xem thời tiết dễ hơn.\n\nBố cục thích ứng với kích thước màn hình và chữ để thông tin thời tiết dễ đọc và các nút điều khiển dễ sử dụng.\n\nChọn phong cách ảnh trong Cài đặt. Ứng dụng có sẵn 3 gói: phong cảnh giấy, “Dạo phố cùng Dubu” và “Wooju của bưu điện trên trời”. Xem 4 ảnh mẫu của “Ngoài sân khấu, Sora” hoặc “Ngoài sân khấu, Chaeun”, rồi tải gói bạn thích với đủ 42 ảnh thời tiết.\n\nXem tiến độ tải, hủy hoặc thử lại và xóa các gói bổ sung khỏi thiết bị. Ảnh đã tải và lựa chọn vẫn được lưu khi mở lại ứng dụng. Các gói ảnh cũng dùng được ngoại tuyến.",
+      "ui": {
+        "home": "Giới thiệu",
+        "features": "Tính năng",
+        "support": "Hỗ trợ",
+        "privacy": "Quyền riêng tư",
+        "skip": "Đến nội dung",
+        "language": "Ngôn ngữ"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "Thời tiết hôm qua và hôm nay",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/vi/",
+        "description": "Thời tiết hôm qua và hôm nay. So sánh nhiệt độ hôm qua, hiện tại và ngày mai cùng giờ. Dự báo theo giờ và mưa.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "th": {
+      "label": "ไทย",
+      "lang": "th",
+      "dir": "ltr",
+      "path": "/th/",
+      "name": "อากาศเมื่อวานและวันนี้",
+      "title": "อากาศเมื่อวานและวันนี้ · พยากรณ์รายชั่วโมงและฝน",
+      "description": "อากาศเมื่อวานและวันนี้. เทียบอุณหภูมิเมื่อวาน ตอนนี้ และพรุ่งนี้ในเวลาเดียวกัน พร้อมพยากรณ์รายชั่วโมง",
+      "subtitle": "พยากรณ์รายชั่วโมงและฝน",
+      "summary": "เทียบอุณหภูมิเมื่อวาน ตอนนี้ และพรุ่งนี้ในเวลาเดียวกัน พร้อมพยากรณ์รายชั่วโมง",
+      "body": "วันนี้ร้อนกว่าเมื่อวานไหม? แล้วพรุ่งนี้ล่ะ?\n\nตัวเลขของวันนี้เพียงอย่างเดียวอาจทำให้นึกภาพอากาศได้ยาก เทียบอากาศจริงเมื่อวาน อากาศตอนนี้ และพรุ่งนี้ในเวลาเดียวกันตามเวลาท้องถิ่น เพื่อเลือกเสื้อผ้าและวางแผนวันได้ง่ายขึ้น\n\nดูได้ในพริบตา:\n- เมื่อวาน ตอนนี้ และพรุ่งนี้\n- สภาพอากาศและโอกาสฝนสูงสุด 24 ช่วงรายชั่วโมง เริ่มจากเวลาปัจจุบัน\n- ความชื้น ลม คุณภาพอากาศ และ UV\n- ตำแหน่งปัจจุบันและเมืองทั่วโลก\n- ตัวอักษรขนาดใหญ่ 17 ภาษา และข้อมูลล่าสุดแบบออฟไลน์\n\nภาพเมือง สวน และชายฝั่งแบบคอลลาจกระดาษมีชีวิตด้วยเอฟเฟกต์ฝน หิมะ และลมเบา ๆ ตัวอักษรใหญ่และหน้าจอที่เป็นระเบียบช่วยให้อ่านสภาพอากาศได้ง่ายขึ้น\n\nการจัดวางปรับตามขนาดหน้าจอและตัวอักษร เพื่อให้อ่านข้อมูลอากาศและใช้งานปุ่มต่าง ๆ ได้สะดวก\n\nเลือกสไตล์ภาพในตั้งค่า แอปมี 3 ชุดภาพในตัว ได้แก่ วิวกระดาษ “เดินเล่นกับดูบู” และ “อูจูแห่งไปรษณีย์บนฟ้า” ดูตัวอย่าง 4 ภาพจาก “นอกเวที โซระ” หรือ “นอกเวที แชอุน” แล้วดาวน์โหลดชุดที่ชอบพร้อมภาพสภาพอากาศครบ 42 ภาพ\n\nติดตามความคืบหน้าการดาวน์โหลด ยกเลิกหรือลองอีกครั้ง และลบชุดภาพเพิ่มเติมออกจากอุปกรณ์ได้ ภาพที่ดาวน์โหลดและตัวเลือกยังคงอยู่เมื่อเปิดแอปใหม่ ชุดภาพยังใช้แบบออฟไลน์ได้",
+      "ui": {
+        "home": "เกี่ยวกับแอป",
+        "features": "คุณสมบัติ",
+        "support": "ช่วยเหลือ",
+        "privacy": "ความเป็นส่วนตัว",
+        "skip": "ข้ามไปยังเนื้อหา",
+        "language": "ภาษา"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "อากาศเมื่อวานและวันนี้",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/th/",
+        "description": "อากาศเมื่อวานและวันนี้. เทียบอุณหภูมิเมื่อวาน ตอนนี้ และพรุ่งนี้ในเวลาเดียวกัน พร้อมพยากรณ์รายชั่วโมง",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "tr": {
+      "label": "Türkçe",
+      "lang": "tr",
+      "dir": "ltr",
+      "path": "/tr/",
+      "name": "Dün ve Bugün Hava Durumu",
+      "title": "Dün ve Bugün Hava Durumu · Saatlik tahmin ve yağmur",
+      "description": "Dün ve Bugün Hava Durumu. Dün, şimdi ve yarını aynı saatte karşılaştır. Saatlik hava ve yağmur tahmini.",
+      "subtitle": "Saatlik tahmin ve yağmur",
+      "summary": "Dün, şimdi ve yarını aynı saatte karşılaştır. Saatlik hava ve yağmur tahmini.",
+      "body": "Bugün bu saatte dünden daha sıcak mı, daha soğuk mu?\n\nBugünün tek bir değeri havayı anlamak için yeterli olmayabilir. Dünün gerçek havasını, şu anki koşulları ve yarını aynı yerel saatte karşılaştır; ne giyeceğine ve gününe daha kolay karar ver.\n\nBir bakışta:\n- Dün, şimdi ve yarın\n- Şu andan başlayan en fazla 24 saatlik dilimde hava durumu ve yağış olasılığı\n- Nem, rüzgâr, hava kalitesi ve UV\n- Mevcut konum ve dünya genelindeki şehirler\n- 17 dil, büyük yazı ve son yüklenen verilere çevrimdışı erişim\n\nKâğıt kolaj şehirler, parklar ve kıyılar hafif yağmur, kar ve rüzgâr efektleriyle canlanır. Büyük yazılar ve daha sade düzen, hava durumunu okumayı kolaylaştırır.\n\nDüzen, hava durumu bilgilerini okumayı ve kontrolleri kullanmayı kolaylaştırmak için ekran ve yazı boyutuna uyum sağlar.\n\nGörsel tarzını Ayarlar’dan seçin. Uygulamada 3 paket bulunur: kâğıt manzaralar, “Dubu ile mahalle gezisi” ve “Gökyüzü Postanesinden Wooju”. “Sahne Dışında, Sora” veya “Sahne Dışında, Chaeun” paketinden 4 örnek görün ve sevdiğiniz paketin 42 hava durumu görselini indirin.\n\nİndirme ilerlemesini görün, iptal edin veya yeniden deneyin. Ek paketleri cihazdan kaldırabilirsiniz. İndirilen görseller ve seçiminiz uygulamayı yeniden açınca korunur. Görsel paketleri çevrimdışı da kullanılabilir.",
+      "ui": {
+        "home": "Uygulama",
+        "features": "Özellikler",
+        "support": "Destek",
+        "privacy": "Gizlilik",
+        "skip": "İçeriğe geç",
+        "language": "Dil"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "Dün ve Bugün Hava Durumu",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/tr/",
+        "description": "Dün ve Bugün Hava Durumu. Dün, şimdi ve yarını aynı saatte karşılaştır. Saatlik hava ve yağmur tahmini.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    },
+    "ru": {
+      "label": "Русский",
+      "lang": "ru",
+      "dir": "ltr",
+      "path": "/ru/",
+      "name": "Погода вчера и сегодня",
+      "title": "Погода вчера и сегодня · Почасовой прогноз и дождь",
+      "description": "Погода вчера и сегодня. Сравните вчера, сейчас и завтра в один час. Почасовой прогноз и шанс дождя.",
+      "subtitle": "Почасовой прогноз и дождь",
+      "summary": "Сравните вчера, сейчас и завтра в один час. Почасовой прогноз и шанс дождя.",
+      "body": "Сегодня теплее, чем вчера? А завтра?\n\nОдно число за сегодня не всегда помогает понять погоду. На одном экране сравните вчерашние наблюдения, текущую погоду и прогноз на завтра для одного и того же местного времени. Так проще выбрать одежду и спланировать день.\n\nВсё главное сразу:\n- Вчера, сейчас и завтра\n- Погода и вероятность дождя не более чем в 24 почасовых периодах, начиная с текущего\n- Влажность, ветер, качество воздуха и УФ\n- Текущее местоположение и города по всему миру\n- 17 языков, крупный шрифт и доступ к последним данным без сети\n\nБумажные города, парки и побережья оживают с мягкими эффектами дождя, снега и ветра. Крупный текст и спокойный интерфейс помогают легче читать прогноз.\n\nМакет подстраивается под размер экрана и текста, чтобы данные о погоде было удобно читать, а элементами управления — пользоваться.\n\nВыберите стиль изображений в настройках. В приложении есть 3 набора: бумажные пейзажи, «Прогулки с Дубу» и «Уджу из небесного почтового отделения». Посмотрите 4 образца «Вне сцены, Сора» или «Вне сцены, Чхэун», затем скачайте выбранный набор со всеми 42 изображениями погоды.\n\nСледите за загрузкой, отменяйте её или повторяйте попытку. Дополнительные наборы можно удалить с устройства. Скачанные изображения и выбор сохраняются после перезапуска приложения. Наборы изображений доступны и без сети.",
+      "ui": {
+        "home": "О приложении",
+        "features": "Возможности",
+        "support": "Поддержка",
+        "privacy": "Конфиденциальность",
+        "skip": "К содержимому",
+        "language": "Язык"
+      },
+      "schema": {
+        "@type": "SoftwareApplication",
+        "@id": "https://moonchecheche.github.io/#app",
+        "name": "Погода вчера и сегодня",
+        "alternateName": "Yesterday & Today Weather",
+        "url": "https://moonchecheche.github.io/ru/",
+        "description": "Погода вчера и сегодня. Сравните вчера, сейчас и завтра в один час. Почасовой прогноз и шанс дождя.",
+        "applicationCategory": "UtilitiesApplication",
+        "applicationSubCategory": "Weather",
+        "operatingSystem": [
+          "iOS",
+          "Android"
+        ],
+        "installUrl": [
+          "https://apps.apple.com/app/id6755811989",
+          "https://play.google.com/store/apps/details?id=com.medmemara.yesterdayweather"
+        ],
+        "image": "https://moonchecheche.github.io/assets/icon.png",
+        "inLanguage": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "fr",
+          "de",
+          "pt-BR",
+          "it",
+          "hi",
+          "ar",
+          "id",
+          "vi",
+          "th",
+          "tr",
+          "ru"
+        ],
+        "publisher": {
+          "@id": "https://moonchecheche.github.io/#publisher"
+        }
+      }
+    }
+  }
+}

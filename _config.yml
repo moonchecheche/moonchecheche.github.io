@@ -1,6 +1,13 @@
 title: 어제오늘날씨
 url: https://moonchecheche.github.io
+baseurl: ""
+description: 어제·지금·내일 같은 시각의 기온을 비교하는 iPhone·Android 날씨 앱
+google_site_verification: A1MZ2Q4McuxKYrKubctf_mNSUxY5MYbZ4SUQyma4WyU
 markdown: kramdown
+exclude:
+  - scripts
+  - README.md
+  - SEARCH-OPERATIONS.md
 defaults:
   - scope:
       path: ""

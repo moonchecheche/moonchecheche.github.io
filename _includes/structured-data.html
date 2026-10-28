@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "{{ '/#publisher' | absolute_url }}",
+      "name": "GOYO WORKS",
+      "url": "{{ '/' | absolute_url }}",
+      "logo": "{{ '/assets/icon.png' | absolute_url }}",
+      "email": "pledge-equal-path@duck.com"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ '/#website' | absolute_url }}",
+      "name": "어제오늘날씨",
+      "alternateName": "Yesterday & Today Weather",
+      "url": "{{ '/' | absolute_url }}",
+      "publisher": { "@id": "{{ '/#publisher' | absolute_url }}" }
+    },
+    {
+      "@type": "WebPage",
+      "@id": {{ canonical | append: '#webpage' | jsonify }},
+      "url": {{ canonical | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": {{ page.lang | default: app.lang | jsonify }},
+      "isPartOf": { "@id": "{{ '/#website' | absolute_url }}" },
+      "about": { "@id": "{{ '/#app' | absolute_url }}" }
+    }{% if page.discovery_home %},
+    {{ app.schema | jsonify }}{% endif %}
+  ]
+}
+</script>

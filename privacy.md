@@ -1,5 +1,5 @@
 ---
-title: 개인정보 처리방침
+title: 어제오늘날씨 개인정보 처리방침 · GOYO WORKS
 description: 어제오늘날씨의 위치, 광고 및 기기 정보 처리와 사용자의 선택에 관한 안내입니다.
 slug: privacy
 permalink: /privacy

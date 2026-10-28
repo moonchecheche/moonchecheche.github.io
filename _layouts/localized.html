@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{% assign app = site.data.app.locales[page.locale] %}
+<section class="hero localized-hero">
+  <div class="hero-copy">
+    <p class="eyebrow">{{ app.subtitle }}</p>
+    <h1>{{ app.name }}</h1>
+    <p class="lead">{{ app.summary }}</p>
+    <a class="button" href="{{ site.data.app.storeUrls.ios }}" aria-label="{{ app.name | escape }} · App Store">App Store <span aria-hidden="true">↗</span></a>
+    <a class="button button-secondary" href="{{ site.data.app.storeUrls.android }}" aria-label="{{ app.name | escape }} · Google Play">Google Play <span aria-hidden="true">↗</span></a>
+  </div>
+  <figure class="hero-art"><img src="/assets/weather-scene.webp" width="1024" height="1536" alt="{{ app.name | escape }}"></figure>
+</section>
+<section class="section localized-copy" aria-labelledby="features-heading">
+  <h2 id="features-heading">{{ app.ui.features }}</h2>
+  {{ app.body | markdownify }}
+</section>
