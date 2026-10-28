@@ -117,6 +117,9 @@ for canonical, page in pages.items():
 tree = ET.parse(destination / 'sitemap.xml')
 locations = [node.text for node in tree.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
 assert len(locations) == len(set(locations)) and set(locations) == set(pages), 'Sitemap differs from canonical pages'
+text_locations = (destination / 'sitemap.txt').read_text().splitlines()
+text_locations = [url for url in text_locations if url.strip()]
+assert len(text_locations) == len(set(text_locations)) and set(text_locations) == set(pages), 'Text sitemap differs from canonical pages'
 robots = (destination / 'robots.txt').read_text()
 assert f'Sitemap: {origin}/sitemap.xml' in robots
 assert 'Disallow: /' not in robots

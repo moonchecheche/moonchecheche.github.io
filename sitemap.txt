@@ -1,0 +1,7 @@
+---
+layout: null
+sitemap: false
+permalink: /sitemap.txt
+---
+{% assign pages = site.pages | sort: 'url' %}{% for item in pages %}{% if item.sitemap != false and item.title and item.description %}{{ item.url | absolute_url }}
+{% endif %}{% endfor %}
