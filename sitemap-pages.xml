@@ -1,0 +1,6 @@
+---
+layout: null
+sitemap: false
+permalink: /sitemap-pages.xml
+---
+{% include sitemap-urls.xml -%}
